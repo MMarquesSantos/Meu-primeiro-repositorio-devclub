@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+    
+
+
+
+header {
+  display: flex;               /* Ativa o Flexbox */
+  justify-content: space-between; /* Espaça os itens nas extremidades */
+  align-items: center;         /* Alinha verticalmente ao centro */
+  padding: 30px;              
+  background-color: #700f0f;      /* Cor de fundo escura */
+  color: white;  
+  cursor: pointer;              
+}
+
+                    
+  
+h2 {
+
+    text-align:center;
+}
+
